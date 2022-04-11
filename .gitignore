@@ -1,3 +1,5 @@
+*.tfstate
+*.tfstate.*
 .terraform*
 app.env
 __pycache__/
