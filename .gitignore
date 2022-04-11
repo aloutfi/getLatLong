@@ -1,3 +1,4 @@
+*.tvars
 *.tfstate
 *.tfstate.*
 .terraform*
