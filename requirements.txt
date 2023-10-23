@@ -15,4 +15,4 @@ urllib3==2.0.7
 uvicorn==0.23.2
 uvloop==0.18.0
 watchgod==0.8.2
-websockets==11.0.3
+websockets==12.0
