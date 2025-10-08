@@ -1,5 +1,5 @@
 anyio==4.11.0
-asgiref==3.9.1
+asgiref==3.10.0
 click==8.3.0
 fastapi==0.118.2
 h11==0.16.0
