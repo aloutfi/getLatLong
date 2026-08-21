@@ -4,7 +4,7 @@ click==8.4.2
 fastapi==0.140.13
 h11==0.16.0
 httptools==0.8.0
-idna==3.18
+idna==3.19
 pydantic==2.13.4
 python-dotenv==1.2.3
 PyYAML==6.0.3
